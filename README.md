@@ -30,15 +30,15 @@ You're provided with a first-person character controller and a village environme
 
 ## Repository setup requirements
 
-This repository uses Git LFS for large .tif files.
-
-1. Clone and initialize with Git LFS:
+1. Fork this repo, you'll share your own fork with us by the end.
+1. This repository uses Git LFS for large .tif files, so when you clone, ensure Git LFS is setup:
   ```bash
-  git clone https://github.com/reganveve/test-ojbect-to-world-interaction.git
-  cd test-ojbect-to-world-interaction
+  git clone <your-repo>
+  cd <your-directory>
   git lfs install
   git lfs pull
   ```
 2. Open project in Unity 2022.3.62f3.
 3. Open Test scene. Path: `Assets/Custom/Scenes/Test.unity`. The scene should have a small village and a player called `FirstPersonCharacterController` for you to test with.
 5. Add UI and object-placement functionality. Have fun!
+6. Share your fork with us. Can just email a link.

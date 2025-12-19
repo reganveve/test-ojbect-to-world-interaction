@@ -34,7 +34,7 @@ You're provided with a first-person character controller and a free village envi
 ## Repository setup requirements
 
 1. Fork this repo, you'll share your own fork with us by the end.
-1. This repository uses Git LFS for large .tif files, so when you clone, ensure Git LFS is setup:
+1. This repository uses Git LFS for large `.tif` files, so when you clone, ensure Git LFS is setup:
   ```bash
   git clone <your-repo>
   cd <your-directory>

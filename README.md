@@ -12,7 +12,7 @@ You're tasked with creating an object-placement system. Similar to below, but no
 - Determine the best, most fun, user-friendly and intuitive way to place these items from your menu, into the 3D world.
   - You choose if the best way is drag/drop or click to enter placement-mode, or any other way you think will work.
   - When placed, items should stand upright on whichever surface you place them on.
-  - Avoid invalid surfaces
+  - Avoid invalid surfaces, ideally only surfaces that are generally facing upwards (range of 45 degrees or so?) should be valid.
 - The inventory itself doesn't need to be a fully-fledged inventory system. Just enough to reference a 3D object (prefab) and to have a custom name or icon in the UI.
 - It should be possible to move and delete items after placing them. You determine the best UI/UX approach here as well.
 - It should not clash with the Player Controller's movement/look functions. Again, you choose the best way with this, you could toggle UI-interaction, or make it so camera-control is only when holding right-click, etc. Up to you.

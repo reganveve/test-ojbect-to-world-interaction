@@ -3,7 +3,7 @@ A template that includes a first-person character controller and environment. Th
 
 ## Instructions
 
-You're tasked with creating an object-placement system. Similar to below, but not quite like this:
+You're tasked with creating an object-placement system, something quite central to our application. Though not exactly like the following gif, it would be similar:
 ![touch-test_360](https://github.com/user-attachments/assets/f2bf46e5-edf8-49e7-b87f-7a82e94b8df5)
 
 ### The check-list

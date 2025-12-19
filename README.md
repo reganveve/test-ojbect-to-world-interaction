@@ -1,5 +1,5 @@
 # test-ojbect-to-world-interaction
-A template that includes a first-person character controller. This serves as the base for a small coding and design test
+A template that includes a first-person character controller and environment. This serves as the base for a small coding and design test
 
 ## Instructions
 
@@ -27,6 +27,8 @@ We aim to gain insights regarding your design sensibilities in terms of function
 ### What's provided?
 
 You're provided with a first-person character controller and a village environment to get you started, feel free to modify, replace these in any way you see fit so that it works nicely with your inventory and object placement. You'll mainly be tested on your approach with the UI required for this task, though any extra effort will be taken into account.
+
+<img width="1470" height="959" alt="image" src="https://github.com/user-attachments/assets/2664a28b-8ee3-45d6-b43a-bb906b562efb" />
 
 ## Repository setup requirements
 

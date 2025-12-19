@@ -34,8 +34,8 @@ This repository uses Git LFS for large .tif files.
 
 1. Clone and initialize with Git LFS:
   ```bash
-  git clone <repo-url>
-  cd <repo>
+  git clone https://github.com/reganveve/test-ojbect-to-world-interaction.git
+  cd test-ojbect-to-world-interaction
   git lfs install
   git lfs pull
   ```
